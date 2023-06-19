@@ -1,5 +1,3 @@
-# coding-challenges
-
 <h1>Sobre este repositório</h1>
 <p>Este repositório foi criado para salvar códigos fonte de soluções de desafios de programação que já realizei</p>
 
